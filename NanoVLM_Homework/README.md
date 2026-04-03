@@ -1,4 +1,4 @@
-# COM-304 | nanoVLM Exercise
+# CS-503 | nanoVLM Exercise
 
 Welcome to the nanoVLM exercise! In this exercise, you will be introduced to Vision-Language Models (VLMs) — visual chatbots that accept both images and text as input and respond in text. You will become familiar with the fundamental topics in developing VLMs, including their building blocks, training data, training, and inference, both conceptually and through hands-on exercises.
 
@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Getting Started
 
-Use the `COM304_FM_part5_nanoVLM.ipynb` notebook to get started.
+Use the `CS503_FM_part5_nanoVLM.ipynb` notebook to get started.
 
 
 ## Acknowledgements
